@@ -1,4 +1,4 @@
-《可解释机器学习--黑盒模型可解释性理解指南》
+《可解释的机器学习--黑盒模型可解释性理解指南》
 ---
 该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一本很棒的工作。你可以在 release 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
