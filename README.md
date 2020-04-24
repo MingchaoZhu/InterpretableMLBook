@@ -40,9 +40,11 @@
 
 我的邮箱联系方式为 [deityrayleigh@gmail.com](mailto:deityrayleigh@gmail.com)
 
-你可以通过邮箱联系 Christoph Molnar: [christoph.molnar.ai@gmail.com](christoph.molnar.ai@gmail.com)
-
 如果你遇到任何问题，可以通过邮箱联系我。
+
+同样，你可以通过邮箱联系 Christoph Molnar: [christoph.molnar.ai@gmail.com](christoph.molnar.ai@gmail.com)
+
+你可以在 leanpub.com 或 lulu.com 上购买英文书的电子版和纸质版。
 
 ## 赞助
 
