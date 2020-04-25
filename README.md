@@ -46,7 +46,7 @@
 
 你可以在 leanpub.com 或 lulu.com 上购买英文书的电子版和纸质版。
 
-感谢作者 Christoph Molnar 的支持：[https://twitter.com/ChristophMolnar/status/1253678901085249541\]
+感谢作者 Christoph Molnar 的支持：https://twitter.com/ChristophMolnar/status/1253657782269739008?s=20
 
 ## 赞助
 
