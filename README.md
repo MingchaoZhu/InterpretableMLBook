@@ -2,7 +2,7 @@
 ---
 该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一本很棒的工作。你可以在 release 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
-我是朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到些表述问题，可以参考我在中文书里的描述。当然，这本书并不完全是基于英文书，这本英文书是较早出版的，作者 Christoph Molnar 在‘Interpretable Machine Learning’的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 release 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
+我是朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到些表述问题，可以参考我在中文书里的描述。当然，这本书并不完全是基于英文书，这本英文书是较早出版的，作者 Christoph Molnar 在 ‘Interpretable Machine Learning’ 的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 release 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
 
 (如果对该书进行更新，会在 release 处上传最新版本。)
 
@@ -48,7 +48,7 @@
 
 感谢作者 Christoph Molnar 的支持：https://twitter.com/ChristophMolnar/status/1253657782269739008?s=20
 
-感谢 LR @KaMAo112的帮助。
+感谢 刘蕊 @KaMAo112的帮助。
 
 ## 赞助
 
