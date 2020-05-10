@@ -1,12 +1,12 @@
 《可解释的机器学习--黑盒模型可解释性理解指南》
 ---
-该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一本很棒的工作。你可以在 release 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
+该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。你可以在 releases 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
-我是朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书。作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 release 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
+我是 朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到某些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书。作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 releases 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
 
-(如果对该书进行更新，会在 release 处上传最新版本。)
+(\* 如果对该书进行更新，会在 releases 处上传最新版本。)
 
-我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 issue 或者通过邮箱联系我 (邮箱联系方式见后方)。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
+我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
 
 ## 面向读者
 
@@ -18,7 +18,7 @@
 
 这本书的重点是机器学习的可解释性。你将学习简单的、可解释的模型，如线性回归、决策树和决策规则等。后面几章重点介绍了解释黑盒模型的模型无关的一般方法，如特征重要性和累积局部效应，以及用 Shapley 值和 LIME 解释单个实例预测。
 
-对各种解释方法进行了深入的解释和批判性的讨论。它们是如何工作的？优点和缺点是什么？如何解释它们的输出？本书将使你能够选择并正确应⽤最适合你的机器学习项⽬的解释⽅法。你阅读本书后，内化基础知识还使你能够更好地理解和评估 arxiv.org 上发表的有关可解释性的新论⽂。
+本书对各种解释方法进行了深入的解释和批判性的讨论。它们是如何工作的？优点和缺点是什么？如何解释它们的输出？本书将使你能够选择并正确应⽤最适合你的机器学习项⽬的解释⽅法。你阅读本书后，内化基础知识还使你能够更好地理解和评估 arxiv.org 上发表的有关可解释性的新论⽂。
 
 《可解释的机器学习》该书总共包含 7 章内容。章节目录如下：
 
@@ -47,6 +47,15 @@
 你可以在 leanpub.com 或 lulu.com 上购买英文书的电子版和纸质版。
 
 感谢作者 Christoph Molnar 的支持：https://twitter.com/ChristophMolnar/status/1253657782269739008?s=20
+
+感谢 刘蕊 @KaMAo112的帮助。
+
+## 致谢
+
+感谢对本项目的认可与推广：
+
++ 量子位：https://mp.weixin.qq.com/s/RmpPs3VQj-OmB3bSbbMg0w
++ 专知：https://mp.weixin.qq.com/s/jkNs6LXxxbVT9ybKO8RpLg
 
 ## 赞助
 
