@@ -50,15 +50,15 @@
 
 感谢 刘蕊 @KaMAo112的帮助。
 
-## 赞助
-
-本项目书写耗费时间精力。如果本项目对你有帮助，可以请作者吃份甜点：
-
-<img src="./docs/pay.jpg" width="200" height="200" alt="支付" align=center>
-
 ## 致谢
 
 感谢对本项目的认可与推广：
 
 + 量子位：https://mp.weixin.qq.com/s/RmpPs3VQj-OmB3bSbbMg0w
 + 专知：https://mp.weixin.qq.com/s/jkNs6LXxxbVT9ybKO8RpLg
+
+## 赞助
+
+本项目书写耗费时间精力。如果本项目对你有帮助，可以请作者吃份甜点：
+
+<img src="./docs/pay.jpg" width="200" height="200" alt="支付" align=center>
