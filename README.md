@@ -1,12 +1,12 @@
 《可解释的机器学习--黑盒模型可解释性理解指南》
 ---
-该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一本很棒的工作。你可以在 release 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
+该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。你可以在 releases 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
-我是朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到些表述问题，可以参考我在中文书里的描述。当然，这本书并不完全是基于英文书，这本英文书是较早出版的，作者 Christoph Molnar 在 ‘Interpretable Machine Learning’ 的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 release 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
+我是 朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到某些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书，作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 releases 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
 
-(如果对该书进行更新，会在 release 处上传最新版本。)
+(\* 如果对该书进行更新，会在 releases 处上传最新版本。)
 
-我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 issue 或者通过邮箱联系我 (邮箱联系方式见后方)。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
+我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
 
 ## 面向读者
 
@@ -55,3 +55,10 @@
 本项目书写耗费时间精力。如果本项目对你有帮助，可以请作者吃份甜点：
 
 <img src="./docs/pay.jpg" width="200" height="200" alt="支付" align=center>
+
+## 致谢
+
+感谢对本项目的认可与推广：
+
++ 量子位：https://mp.weixin.qq.com/s/RmpPs3VQj-OmB3bSbbMg0w
++ 专知：https://mp.weixin.qq.com/s/jkNs6LXxxbVT9ybKO8RpLg
