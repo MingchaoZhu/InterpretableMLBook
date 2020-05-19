@@ -2,7 +2,7 @@
 ---
 该书为《Interpretable Machine Learning》中文版。该书原作者是 Christoph Molnar，他是一名统计学家和机器学习者 @christophM。该书的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。你可以在 releases 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
-我是 朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了一遍又一遍的校正。如果你在英文原书中看到某些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书，作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 releases 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
+我是 朱明超，同样，我也是一名机器学习者。关于此书的译本，我在翻译后进行了校正。如果你在英文原书中看到某些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书，作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 releases 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
 
 (\* 如果对该书进行更新，会在 releases 处上传最新版本。)
 
@@ -56,6 +56,17 @@
 
 + 量子位：https://mp.weixin.qq.com/s/RmpPs3VQj-OmB3bSbbMg0w
 + 专知：https://mp.weixin.qq.com/s/jkNs6LXxxbVT9ybKO8RpLg
++ GitHubDaily：https://zhuanlan.zhihu.com/p/139738569
++ 量化投资与机器学习：https://mp.weixin.qq.com/s/stEuhtIk8bBOiDu0x1OtFw
++ AI有道：https://mp.weixin.qq.com/s/fa3EapLul1QYYesZ2ISo2g
++ 极市平台：https://mp.weixin.qq.com/s/JoBlCABnhzM09Wb5YREZiA
++ 计算机视觉life：https://mp.weixin.qq.com/s/0IqzJqU2HjIzCwqcvlx_Cw
+
+## 留言
+
+从该项目上传到 GitHub 上以来，收到了很多邮件，感谢的、合作的、下载的，各方面都有。真的很感谢很多人的认可与支持。其实从个人而言，很想收到可以指出哪里翻译错误的邮件。其实做这份工作，一方面是源于我自身的热爱，另一方面是我们真的需要它，所以我便一直埋头于这本书的译本。
+
+扪心自问，中文译本和英文书，即便是那些说自己要去看英文的，可有几个人是真的会去把英文专著从头看到尾的。知识能够普及通常是要有一本中文译本在前。但也正因为如此，我们需要提高中文译本的质量。这本书后续会有细致的完善、打磨、修改，会用较长时间和精力去做这事。这方面真的很需要大家的帮助，如果你在阅读中遇到错误，真诚地希望您可以通过邮件告诉我。
 
 ## 赞助
 
