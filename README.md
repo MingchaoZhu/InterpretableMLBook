@@ -1,4 +1,4 @@
-《可解释的机器学习--黑盒模型可解释性理解指南》
+《可解释机器学习--黑盒模型可解释性理解指南》
 ---
 该书为《Interpretable Machine Learning》中文版，《Interpretable Machine Learning》是可解释性领域内的第一本著作，深受可解释机器学习研究者的喜爱，并被FloydHub评定为2020年世界最佳机器学习著作之一。该书原作者是 Christoph Molnar，他是一名数据科学家和可解释机器学习博士 @christophM。英文版的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。你可以在 releases 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
 
@@ -24,9 +24,11 @@
 
 修改后的版本和放在GitHub上的最初版本有很大出入。至于GitHub上的最初版本，我已经征得出版社同意，可以不用从GitHub上下架，可以继续下载。
 
-<img src="./docs/cover1.jpeg" width="420" height="600" alt="正面" align=center>
+<img src="./docs/tuijian1.jpeg" width="430" height="600" alt="封面" align=center>
 
-<img src="./docs/cover2.jpeg" width="420" height="600" alt="背面" align=center>
+<img src="./docs/tuijian2.jpeg" width="320" height="600" alt="推荐" align=center>
+
+<img src="./docs/tuijian3.jpeg" width="320" height="600" alt="实拍" align=center>
 
 最后，因为出版社的要求，我知乎上创建的账号：朱明超。包括隔壁下次更新会直接更完的花书全书的原理与代码实现的项目，《可解释机器学习》的后续，以及今后会写的内容，会在知乎上说，感谢关注！
 
