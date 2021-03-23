@@ -1,12 +1,12 @@
 《可解释机器学习--黑盒模型可解释性理解指南》
 ---
-该书为《Interpretable Machine Learning》中文版，《Interpretable Machine Learning》是可解释性领域内的第一本著作，深受可解释机器学习研究者的喜爱，并被FloydHub评定为2020年世界最佳机器学习著作之一。该书原作者是 Christoph Molnar，他是一名数据科学家和可解释机器学习博士 @christophM。英文版的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。你可以在 releases 中下载本书英文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v0.0/iml_english.pdf)。
+该书为《Interpretable Machine Learning》中文版，《Interpretable Machine Learning》是可解释性领域内的第一本著作，深受可解释机器学习研究者的喜爱，并被FloydHub评定为2020年世界最佳机器学习著作之一。该书原作者是 Christoph Molnar，他是一名数据科学家和可解释机器学习博士 @christophM。英文版的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。
 
-我是 朱明超，同样，我也是一名机器学习研究者。关于此书的译本，我在翻译后进行了校正。如果你在英文原书中看到某些表述问题，可以参考我在中文书里的描述。当然，由于英文原书是较早前出版的，本书并不是完全基于英文书，作者 Christoph Molnar 在《Interpretable Machine Learning》的 [网页版](https://christophm.github.io/interpretable-ml-book/) 中对内容不断填充，所以中文版的翻译主要基于网页版 (内容会多于英文书)。你可以在 releases 中下载本书中文版 [pdf](https://github.com/MingchaoZhu/InterpretableMLBook/releases/download/v1.0/iml_chinese.pdf)。
+我是 朱明超。关于此书的译本，我在翻译后进行了校正。
 
 (\* 如果对该书进行更新，会在 releases 处上传最新版本。)
 
-我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
+我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。你可以在 releases 中下载本书英文版和中文版。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
 
 ## 出版读物 (后续)
 
@@ -22,15 +22,15 @@
 
 本书将由电子工业出版社正式打印出版，可于博文视点官网http://www.broadview.com.cn/搜索 [可解释机器学习](http://www.broadview.com.cn/book/6530) ，或者在官方销售网站上购买。感谢您的推荐和支持，在此不甚感激！
 
-修改后的版本和放在GitHub上的最初版本有很大出入。至于GitHub上的最初版本，我已经征得出版社同意，可以不用从GitHub上下架，可以继续下载。
+修改后的版本和放在GitHub上的最初版本有很大出入。
 
-<img src="./docs/tuijian1.jpeg" width="430" height="600" alt="封面" align=center>
+<img src="./docs/tuijian1.jpeg" width="450" height="600" alt="封面" align=center>
 
-<img src="./docs/tuijian2.jpeg" width="320" height="600" alt="推荐" align=center>
+<img src="./docs/tuijian2.jpeg" width="350" height="650" alt="推荐" align=center>
 
-<img src="./docs/tuijian3.jpeg" width="320" height="600" alt="实拍" align=center>
+<img src="./docs/tuijian3.jpeg" width="320" height="650" alt="实拍" align=center>
 
-最后，因为出版社的要求，我知乎上创建的账号：朱明超。包括隔壁下次更新会直接更完的花书全书的原理与代码实现的项目，《可解释机器学习》的后续，以及今后会写的内容，会在知乎上说，感谢关注！
+最后，因为出版社的要求，我知乎上创建的账号：朱明超。包括隔壁下次更新会直接更完的花书全书的原理与代码实现的项目，《可解释机器学习》的后续版本，以及今后会写的内容，会在知乎上说，感谢关注！
 
 <img src="./docs/self.png" width="400" height="200" alt="知乎" align=center>
 
@@ -46,7 +46,7 @@
 
 对各种解释方法进行了深入的解释和批判性的讨论。它们是如何工作的？优点和缺点是什么？如何解释它们的输出？本书将使你能够选择并正确应⽤最适合你的机器学习项⽬的解释⽅法。你阅读本书后，内化基础知识还使你能够更好地理解和评估 arxiv.org 上发表的有关可解释性的新论⽂。
 
-《可解释的机器学习》该书总共包含 7 章内容。章节目录如下：
+第一版《可解释的机器学习》总共包含 7 章内容。章节目录如下：
 
 + 第一章：前言
 
@@ -87,12 +87,6 @@
 + AI有道：https://mp.weixin.qq.com/s/fa3EapLul1QYYesZ2ISo2g
 + 极市平台：https://mp.weixin.qq.com/s/JoBlCABnhzM09Wb5YREZiA
 + 计算机视觉life：https://mp.weixin.qq.com/s/0IqzJqU2HjIzCwqcvlx_Cw
-
-## 留言
-
-从该项目上传到 GitHub 上以来，收到了很多邮件，感谢的、合作的、下载的，各方面都有。真的很感谢很多人的认可与支持。其实从个人而言，很想收到可以指出哪里翻译错误的邮件。其实做这份工作，一方面是源于我自身的热爱，另一方面是我们真的需要它，所以我便一直埋头于这本书的译本。
-
-扪心自问，中文译本和英文书，即便是那些说自己要去看英文的，可有几个人是真的会去把英文专著从头看到尾的。知识能够普及通常是要有一本中文译本在前。但也正因为如此，我们需要提高中文译本的质量。这本书后续会有细致的完善、打磨、修改，会用较长时间和精力去做这事。这方面真的很需要大家的帮助，如果你在阅读中遇到错误，真诚地希望你可以通过邮件告诉我。
 
 ## 赞助
 
