@@ -1,6 +1,6 @@
 《可解释机器学习--黑盒模型可解释性理解指南》
 ---
-该书为《Interpretable Machine Learning》中文版，《Interpretable Machine Learning》是可解释性领域内的第一本著作，深受可解释机器学习研究者的喜爱，并被FloydHub评定为2020年世界最佳机器学习著作之一。该书原作者是 Christoph Molnar，他是一名数据科学家和可解释机器学习博士 @christophM。英文版的项目 [地址](https://github.com/christophM/interpretable-ml-book)，这是一个很棒的工作。
+该书为《Interpretable Machine Learning》中文版，《Interpretable Machine Learning》是可解释性领域内的第一本著作，深受可解释机器学习研究者的喜爱，并被FloydHub评定为2020年世界最佳机器学习著作之一。该书原作者是 Christoph Molnar，他是一名数据科学家和可解释机器学习博士 @christophM。英文版的项目 [地址](https://christophm.github.io/interpretable-ml-book/index.html)，这是一个很棒的工作。
 
 我是 朱明超。关于此书的译本，我在翻译后进行了校正。
 
