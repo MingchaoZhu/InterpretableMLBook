@@ -4,9 +4,7 @@
 
 我是 朱明超。关于此书的译本，我在翻译后进行了校正。
 
-(\* 如果对该书进行更新，会在 releases 处上传最新版本。)
-
-我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。你可以在 releases 中下载本书英文版和中文版。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
+我不是专职翻译，而且水平有限，无法消除众多读者的方差。如果你在阅读过程中有遇到任何问题，可以在 Issues 或者通过邮箱联系我 (邮箱联系方式见后文)。你可以在 releases 中下载中英版。如果后面时间允许的话，我会为这本书描述的方法，补充基于 Python 的实战应用。
 
 ## 出版读物 (后续)
 
@@ -22,15 +20,13 @@
 
 本书将由电子工业出版社正式打印出版，可于博文视点官网http://www.broadview.com.cn/搜索 [可解释机器学习](http://www.broadview.com.cn/book/6530) ，或者在官方销售网站上购买。感谢您的推荐和支持，在此不甚感激！
 
-<img src="./docs/tuijian1.jpeg" width="450" height="600" alt="封面" align=center>
+<img src="./docs/tuijian1.jpeg" width="400" height="680" alt="封面" align=center>
 
 <img src="./docs/tuijian2.jpeg" width="350" height="650" alt="推荐" align=center>
 
-<img src="./docs/tuijian3.jpeg" width="320" height="650" alt="实拍" align=center>
+<img src="./docs/tuijian3.jpeg" width="280" height="650" alt="实拍" align=center>
 
-最后，因为出版社的要求，我知乎上创建的账号：朱明超。包括隔壁下次更新会直接更完的花书全书的原理与代码实现的项目，《可解释机器学习》的后续版本，以及今后会写的内容，会在知乎上说，感谢关注！
-
-<img src="./docs/self.png" width="400" height="200" alt="知乎" align=center>
+最后，因为出版社的要求，我知乎上创建的账号：[朱明超](https://www.zhihu.com/people/zhu-ming-chao-99-36)。包括隔壁下次更新会直接更完的花书全书的原理与代码实现的项目，《可解释机器学习》的后续版本，以及今后会写的内容，会在知乎上说，感谢关注！
 
 ## 面向读者
 
@@ -85,9 +81,3 @@
 + AI有道：https://mp.weixin.qq.com/s/fa3EapLul1QYYesZ2ISo2g
 + 极市平台：https://mp.weixin.qq.com/s/JoBlCABnhzM09Wb5YREZiA
 + 计算机视觉life：https://mp.weixin.qq.com/s/0IqzJqU2HjIzCwqcvlx_Cw
-
-## 赞助
-
-本项目书写耗费时间精力。如果本项目对你有帮助，可以请作者吃份甜点：
-
-<img src="./docs/pay.jpg" width="200" height="200" alt="支付" align=center>
